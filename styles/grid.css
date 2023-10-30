@@ -1,0 +1,15 @@
+section {
+    margin-inline: 110px;
+}
+
+.row { 
+    display: flex;
+    flex-direction: row;
+}
+
+.col { 
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0;
+    width: 100%;
+}
